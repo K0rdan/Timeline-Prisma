@@ -1,0 +1,15 @@
+{
+  "name": "timeline-prisma",
+  "author": "Kordan",
+  "license": "ISC",
+  "version": "0.0.1",
+  "desciption": "Timeline-Prisma",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/K0rdan/Timeline-Prisma.git"
+  },
+  "bugs": {
+    "url": "https://github.com/K0rdan/Timeline-Prisma/issues"
+  },
+  "homepage": "https://github.com/K0rdan/Timeline-Prisma#readme"
+}
