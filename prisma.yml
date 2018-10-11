@@ -1,4 +1,5 @@
-endpoint: http://timeline-prisma:4466/timeline
+endpoint: http://${env:TIMELINE_PRISMA_HOST}:${env:TIMELINE_PRISMA_PORT}/timeline
+secret: ${env:TIMELINE_PRISMA_MANAGEMENTAPISECRET}
 datamodel: datamodel.graphql
 seed:
   import: seed.graphql
