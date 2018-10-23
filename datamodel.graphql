@@ -1,3 +1,10 @@
+type User {
+  id: ID! @unique
+  name: String!
+  email: String!
+  password: String!
+}
+
 type Theme {
   id: ID! @unique
   name: String!
